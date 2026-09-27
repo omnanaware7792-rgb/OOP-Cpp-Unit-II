@@ -1,0 +1,5 @@
+1. Define Academic and Sports as two base classes.
+2. Store academic and sports marks in protected members.
+3. Derive Student from both classes.
+4. Initialize both base classes.
+5. Display both marks and calculate the total.

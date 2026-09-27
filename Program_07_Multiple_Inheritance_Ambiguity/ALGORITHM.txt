@@ -1,0 +1,5 @@
+1. Define Academic and Sports with functions having the same name display().
+2. Derive Student from both classes.
+3. Use the scope-resolution operator to specify Academic::display().
+4. Use Sports::display() to specify the other function.
+5. Call displayAll(), which resolves both functions explicitly.

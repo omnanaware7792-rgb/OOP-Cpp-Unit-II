@@ -1,0 +1,7 @@
+1. Define Employee as an abstract base class.
+2. Add the pure virtual calculateSalary() function.
+3. Derive PermanentEmployee and ContractEmployee.
+4. Implement salary calculation in each derived class.
+5. Create objects for both employee types.
+6. Pass them to displayPaySlip() using a base-class reference.
+7. Display employee details and calculated salary.

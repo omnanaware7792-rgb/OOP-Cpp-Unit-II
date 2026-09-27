@@ -1,0 +1,32 @@
+// Unit II - Object-Oriented Programming with C++
+// Source: Unit 2 Inheritance Practical Code Book
+
+#include <iostream>
+
+class Base {
+public:
+    void show() const {
+        std::cout << "Base public function\n";
+    }
+};
+
+class PublicDerived : public Base {
+};
+
+class PrivateDerived : private Base {
+public:
+    void callBaseShow() const {
+        show();
+    }
+};
+
+int main() {
+    PublicDerived publicObject;
+    publicObject.show();
+
+    PrivateDerived privateObject;
+    privateObject.callBaseShow();
+
+    // privateObject.show(); // Error: show() is private through private inheritance.
+    return 0;
+}

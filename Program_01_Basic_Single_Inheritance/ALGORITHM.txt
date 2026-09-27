@@ -1,0 +1,5 @@
+1. Define Person as the base class with a protected name.
+2. Define Student as a public derived class with rollNumber.
+3. Initialize the base and derived members using constructors.
+4. Create a Student object.
+5. Call displayStudent() to display the inherited name and roll number.

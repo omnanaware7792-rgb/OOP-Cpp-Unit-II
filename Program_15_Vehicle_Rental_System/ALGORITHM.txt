@@ -1,0 +1,6 @@
+1. Define Vehicle with registration number and daily rental rate.
+2. Define Car and Bike as derived classes.
+3. Override display() for both vehicle types.
+4. Override calculateRent() for Bike with the 10% reduction shown in the source.
+5. Create one Car and one Bike.
+6. Display details and calculate rent for 3 days.

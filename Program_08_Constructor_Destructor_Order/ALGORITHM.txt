@@ -1,0 +1,6 @@
+1. Define a Base constructor and destructor.
+2. Define a Derived class inheriting from Base.
+3. Define constructors and destructors for Derived.
+4. Create a Derived object.
+5. Observe construction from Base to Derived.
+6. Observe destruction from Derived to Base.

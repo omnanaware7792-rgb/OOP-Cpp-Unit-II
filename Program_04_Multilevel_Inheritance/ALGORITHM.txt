@@ -1,0 +1,5 @@
+1. Create Person as the base class.
+2. Derive Employee from Person.
+3. Derive Manager from Employee.
+4. Initialize name, employee ID, and team size.
+5. Display all three levels of inherited information.

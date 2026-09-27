@@ -1,0 +1,5 @@
+1. Define a virtual move() function in Vehicle.
+2. Derive Car and Boat from Vehicle.
+3. Override move() in both derived classes.
+4. Create Car and Boat objects.
+5. Call their overridden functions.

@@ -1,0 +1,5 @@
+1. Define Vehicle as the common base class.
+2. Derive Car and Bike from Vehicle.
+3. Initialize registration numbers.
+4. Call the inherited start() function for both objects.
+5. Call the specific Car and Bike functions.

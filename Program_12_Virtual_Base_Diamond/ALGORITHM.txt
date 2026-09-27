@@ -1,0 +1,5 @@
+1. Define Person as the common base class.
+2. Inherit Student and Employee virtually from Person.
+3. Derive TeachingAssistant from Student and Employee.
+4. Initialize the virtual Person base from TeachingAssistant.
+5. Display the single Person name.

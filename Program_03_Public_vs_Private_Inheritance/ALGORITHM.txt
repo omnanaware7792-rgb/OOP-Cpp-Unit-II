@@ -1,0 +1,6 @@
+1. Define a Base class with a public show() function.
+2. Derive PublicDerived using public inheritance.
+3. Derive PrivateDerived using private inheritance.
+4. Call show() directly through PublicDerived.
+5. Call the inherited function through a public wrapper in PrivateDerived.
+6. Observe the difference in accessibility.

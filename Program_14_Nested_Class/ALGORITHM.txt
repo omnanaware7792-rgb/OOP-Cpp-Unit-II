@@ -1,0 +1,5 @@
+1. Define University as the outer class.
+2. Define Department as a nested class.
+3. Store the department name in Department.
+4. Create a Department object using University::Department.
+5. Display the department name.

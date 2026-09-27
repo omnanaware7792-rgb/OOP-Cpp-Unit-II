@@ -1,0 +1,6 @@
+1. Define Employee with a protected name member.
+2. Derive Developer publicly from Employee.
+3. Add language as a private member of Developer.
+4. Initialize both through constructors.
+5. Access the protected name inside Developer::display().
+6. Display the developer name and programming language.

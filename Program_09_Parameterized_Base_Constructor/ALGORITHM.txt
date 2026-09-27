@@ -1,0 +1,5 @@
+1. Define Person with a parameterized constructor.
+2. Derive Student from Person.
+3. Pass studentName to the base constructor through the initializer list.
+4. Initialize rollNumber in the same initializer list.
+5. Display the initialized values.

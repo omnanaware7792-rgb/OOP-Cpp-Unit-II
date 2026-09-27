@@ -1,0 +1,5 @@
+1. Define Account with a private balance.
+2. Declare Auditor as a friend class.
+3. Define Auditor::inspect().
+4. Access the private balance through the friend class.
+5. Create Account and Auditor objects and display the balance.

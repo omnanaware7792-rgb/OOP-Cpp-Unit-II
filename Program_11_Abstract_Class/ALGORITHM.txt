@@ -1,0 +1,5 @@
+1. Define Shape with the pure virtual function area().
+2. Derive Rectangle and Circle from Shape.
+3. Implement area() in both derived classes.
+4. Create Rectangle and Circle objects.
+5. Calculate and display both areas.
